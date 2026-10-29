@@ -28,9 +28,7 @@ The game uses a combination of custom/AI-assisted artwork and free online sound 
 
 ## AI Use
 
-ChatGPT was used as a development assistant during the project. It helped with Unity/C# troubleshooting, code implementation and debugging, UI setup, gameplay systems, and development of some visual assets.
-
-AI assistance was used while developing systems including target spawning, rounds, shooting, scoring, ammunition, hit detection, timers, results, and retry functionality. The systems were implemented, tested, adjusted, and integrated into the Unity project during development.
+ChatGPT was used for assistance with some C# troubleshooting, debugging, and creating visual assets during development. As well as help with implementation of assets and assistance in navigating Unity and project set up.
 
 ## Built With
 
