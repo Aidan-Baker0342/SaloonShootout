@@ -1,0 +1,11 @@
+SALOON SHOOTOUT - CHANGES FROM DESIGN DOCUMENT
+
+The final game changed somewhat from my original design as I worked on it.
+
+The biggest change was making the game more focused on aim training instead of the original quick-draw/holster idea. The final version has six rounds that get progressively harder. Round 1 has one target, and each round adds another target until Round 6 has six.
+
+Targets spawn randomly at different positions and sizes to simulate different distances. The player gets six bullets each round. Body shots give 100 points and headshots give 200 points.
+
+I also added a score display, ammo display, timer, sound effects, final results screen, and retry button.
+
+AI was used for some help with C# troubleshooting, debugging, and creating visual assets.
