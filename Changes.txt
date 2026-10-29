@@ -1,11 +1,15 @@
-SALOON SHOOTOUT - CHANGES FROM DESIGN DOCUMENT
+SALOON SHOOTOUT - CHANGES FROM ORIGINAL DESIGN
 
-The final game changed somewhat from my original design as I worked on it.
+The final game stayed close to my original idea but I changed a few things to keep the scope manageable.
 
-The biggest change was making the game more focused on aim training instead of the original quick-draw/holster idea. The final version has six rounds that get progressively harder. Round 1 has one target, and each round adds another target until Round 6 has six.
+The biggest change was removing the holster and DRAW mechanic. Instead, the game focuses directly on the aim-training part of the original idea.
 
-Targets spawn randomly at different positions and sizes to simulate different distances. The player gets six bullets each round. Body shots give 100 points and headshots give 200 points.
+I kept the six-round system, six bullets per round, random target spawning, 100-point body shots, and 200-point headshots. I also made targets appear at different sizes and positions to simulate different distances.
 
-I also added a score display, ammo display, timer, sound effects, final results screen, and retry button.
+Instead of outlaw characters, I used cardboard cowboy shooting-range targets. I also added an ammo display, score and round UI, a timer, final results screen, and retry button.
 
-AI was used for some help with C# troubleshooting, debugging, and creating visual assets.
+For sound, I added a revolver shot, wooden target hit, and empty gun click. I did not add background music.
+
+AI USE
+
+I used ChatGPT for help with some C# troubleshooting and debugging, Unity setup, and creating visual assets for the game.
